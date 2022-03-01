@@ -95,6 +95,7 @@ namespace RunTimeControlUygulama
                 pc.BackColor = Color.FromArgb(rnd.Next(0, 256), rnd.Next(0, 256), rnd.Next(0, 256));
 
                 MessageBox.Show("test");
+                MessageBox.Show("test");
             }
         }
     }
